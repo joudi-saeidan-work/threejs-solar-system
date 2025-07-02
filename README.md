@@ -33,7 +33,7 @@ This project visualizes a miniature solar system:
 
 ## Demo
 
-[▶️ Watch the demo](/threejs-solar-system/presentation.mp4)
+[▶️ Watch the demo](presentation.mp4)
 
 ---
 
